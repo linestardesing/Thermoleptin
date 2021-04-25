@@ -85,7 +85,7 @@
     ],
     "imageResize": true,
     "uniqCompNum": 15,
-    "versionPublish": "5.2.0",
+    "versionPublish": "5.3.0",
     "screenshot": "screenshot.png",
     "mcShopcart": {
       "email": "riotouchc@gmail.com",
@@ -123,7 +123,10 @@
       "name": "",
       "icon": "@PROJECT_PATH@/assets/images/logo-512x512.png",
       "themeColor": "#45b3df"
-    }
+    },
+    "google-analytics": "",
+    "global_header_custom": "<meta name=\"google-site-verification\" content=\"ABetU8OHMAh5ZKbnbDXmR1Ol1zgbzN53ueQRYkkSojk\" />",
+    "mbrsiteDomain": "7xsjzlsqn3"
   },
   "pages": {
     "index.html": {
@@ -692,7 +695,9 @@
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": false,
