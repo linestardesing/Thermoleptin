@@ -124,9 +124,9 @@
       "icon": "@PROJECT_PATH@/assets/images/logo-512x512.png",
       "themeColor": "#45b3df"
     },
-    "google-analytics": "UA-196707100-1",
-    "global_header_custom": "<meta name=\"google-site-verification\" content=\"ABetU8OHMAh5ZKbnbDXmR1Ol1zgbzN53ueQRYkkSojk\" />",
-    "mbrsiteDomain": "xkdmdpht5k"
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-196707100-1\">\n</script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-196707100-1');\n</script>",
+    "global_header_custom": "<meta name=\"google-site-verification\" content=\"ABetU8OHMAh5ZKbnbDXmR1Ol1zgbzN53ueQRYkkSojk\" />\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-196707100-1\">\n</script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-196707100-1');\n</script>",
+    "mbrsiteDomain": "d1npds8a2f"
   },
   "pages": {
     "index.html": {
